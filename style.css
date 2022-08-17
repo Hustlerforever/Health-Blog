@@ -19,7 +19,9 @@ main {
     margin-top: 0%;
     margin-left: 5%;
 }
-
+a{
+    text-decoration: none;
+}
 header h3{
     margin-left: 13%;
     font-size: larger;
